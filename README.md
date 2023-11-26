@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Felipe</h1>
+<h1 align="center">Hello 👋, I'm Felipe</h1>
 <h3 align="center">discovering my passion</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pipecordova" alt="pipecordova" /></a> </p>
