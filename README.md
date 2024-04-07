@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Felipe</h1>
-<h3 align="center">I'm 21 years old and I'm from the south of Chile</h3>
 
 - 📫 How to reach me **felipe.cordova@alumnos.uach.cl**
 
